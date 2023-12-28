@@ -1,3 +1,7 @@
+The Tech Stack being used on this repo is 
+
+React.js (Javascipt) with Tailwind CSS
+
 How to get started working on the repo
 
 1. Fork the repo 
