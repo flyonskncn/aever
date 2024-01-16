@@ -1,3 +1,6 @@
+If you are making App bar and Footer while creating your page make sure assign yourself to the issue for that as well
+similarly if someone has already self assigned themselves to the issue of App bar and Footer no need to add app bar / footer to the page, add them later after components of the same are created
+
 The Tech Stack being used on this repo is 
 
 React.js (Javascipt) with Tailwind CSS
